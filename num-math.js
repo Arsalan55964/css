@@ -16,7 +16,7 @@ const hundreds = 1000000
 // console.log(hundreds.toLocaleString('en-in'));
 
 
-// *****************************maths***********************
+// *****************************maths******************************
 //console.log(Math);
 //console.log(Math.abs(-4));
 //console.log(Math.round(4.6));
